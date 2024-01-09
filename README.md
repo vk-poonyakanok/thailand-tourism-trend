@@ -3,6 +3,8 @@
 ## Project Overview
 This project aims to analyze tourist data in Thailand and develop an interactive dashboard to visualize tourism trends and expenditures.
 
+To view the Jupyter notebook, please see [Thailand_Tourism_Trends_Analysis.ipynb](Thailand_Tourism_Trends_Analysis.ipynb) in this repository.
+
 ## Data Source
 The data for this project is sourced from the [Thailand Tourism Trend](https://data.go.th/en/dataset/trend_inbound_tourists) dataset provided by the Ministry of Tourism and Sports, Thailand. 
 
