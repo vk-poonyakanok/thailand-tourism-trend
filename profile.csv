@@ -2,19 +2,19 @@ ISO,Continent,SubRegion,CountryName,Population,IncomeGroup
 AFG,Asia,Southern Asia,Afghanistan,38041754.0,5. Low income
 ALB,Europe,Southern Europe,Albania,2854191.0,4. Lower middle income
 DZA,Africa,Northern Africa,Algeria,43053054.0,3. Upper middle income
-ASM,Oceania,Polynesia,United States of America,55312.0,3. Upper middle income
+ASM,Oceania,Polynesia,American Samoa,55312.0,3. Upper middle income
 AND,Europe,Southern Europe,Andorra,77142.0,2. High income: nonOECD
 AGO,Africa,Sub-Saharan Africa,Angola,31825295.0,3. Upper middle income
-AIA,Americas,Latin America and the Caribbean,United Kingdom,14731.0,3. Upper middle income
+AIA,Americas,Latin America and the Caribbean,Anguilla,14731.0,3. Upper middle income
 ATG,Americas,Latin America and the Caribbean,Antigua and Barbuda,97118.0,3. Upper middle income
 ARG,Americas,Latin America and the Caribbean,Argentina,44938712.0,3. Upper middle income
 ARM,Asia,Western Asia,Armenia,2957731.0,4. Lower middle income
-ABW,Americas,Latin America and the Caribbean,Netherlands,106314.0,2. High income: nonOECD
+ABW,Americas,Latin America and the Caribbean,Aruba,106314.0,2. High income: nonOECD
 XXX,,,,,
 AUS,Oceania,Australia and New Zealand,Australia,25364307.0,1. High income: OECD
-AUS,Oceania,Australia and New Zealand,Australia,2387.0,2. High income: nonOECD
-AUS,Oceania,Australia and New Zealand,Australia,4.0,5. Low income
-AUS,Oceania,Australia and New Zealand,Australia,0.0,5. Low income
+AUS,Oceania,Australia and New Zealand,Indian Ocean Territories,2387.0,2. High income: nonOECD
+AUS,Oceania,Australia and New Zealand,Coral Sea Islands,4.0,5. Low income
+AUS,Oceania,Australia and New Zealand,Ashmore and Cartier Islands,0.0,5. Low income
 AUT,Europe,Western Europe,Austria,8877067.0,1. High income: OECD
 AZE,Asia,Western Asia,Azerbaijan,10023318.0,3. Upper middle income
 BHS,Americas,Latin America and the Caribbean,The Bahamas,389482.0,2. High income: nonOECD
@@ -25,7 +25,7 @@ BLR,Europe,Eastern Europe,Belarus,9466856.0,3. Upper middle income
 BEL,Europe,Western Europe,Belgium,11484055.0,1. High income: OECD
 BLZ,Americas,Latin America and the Caribbean,Belize,390353.0,4. Lower middle income
 BEN,Africa,Sub-Saharan Africa,Benin,11801151.0,5. Low income
-BMU,Americas,Northern America,United Kingdom,63918.0,2. High income: nonOECD
+BMU,Americas,Northern America,Bermuda,63918.0,2. High income: nonOECD
 BTN,Asia,Southern Asia,Bhutan,763092.0,4. Lower middle income
 BOL,Americas,Latin America and the Caribbean,Bolivia,11513100.0,4. Lower middle income
 BES,Americas,Latin America and the Caribbean,,,
@@ -34,8 +34,8 @@ BWA,Africa,Sub-Saharan Africa,Botswana,2303697.0,3. Upper middle income
 BVT,Americas,Latin America and the Caribbean,,,
 BRA,Americas,Latin America and the Caribbean,Brazil,211049527.0,3. Upper middle income
 BRA,Americas,Latin America and the Caribbean,Brazilian Island,0.0,3. Upper middle income
-IOT,Africa,Sub-Saharan Africa,United Kingdom,3000.0,2. High income: nonOECD
-VGB,Americas,Latin America and the Caribbean,United Kingdom,30030.0,1. High income: OECD
+IOT,Africa,Sub-Saharan Africa,British Indian Ocean Territory,3000.0,2. High income: nonOECD
+VGB,Americas,Latin America and the Caribbean,British Virgin Islands,30030.0,1. High income: OECD
 BRN,Asia,South-eastern Asia,Brunei,433285.0,2. High income: nonOECD
 BGR,Europe,Eastern Europe,Bulgaria,6975761.0,3. Upper middle income
 BFA,Africa,Sub-Saharan Africa,Burkina Faso,20321378.0,5. Low income
@@ -44,25 +44,25 @@ CPV,Africa,Sub-Saharan Africa,Cabo Verde,549935.0,4. Lower middle income
 KHM,Asia,South-eastern Asia,Cambodia,16486542.0,5. Low income
 CMR,Africa,Sub-Saharan Africa,Cameroon,25876380.0,4. Lower middle income
 CAN,Americas,Northern America,Canada,37589262.0,1. High income: OECD
-CYM,Americas,Latin America and the Caribbean,United Kingdom,64948.0,2. High income: nonOECD
+CYM,Americas,Latin America and the Caribbean,Cayman Islands,64948.0,2. High income: nonOECD
 CAF,Africa,Sub-Saharan Africa,Central African Republic,4745185.0,5. Low income
 TCD,Africa,Sub-Saharan Africa,Chad,15946876.0,5. Low income
 CHI,,,,,
 CHL,Americas,Latin America and the Caribbean,Chile,18952038.0,3. Upper middle income
 CHN,Asia,Eastern Asia,China,1397715000.0,3. Upper middle income
-HKG,Asia,Eastern Asia,China,7507400.0,2. High income: nonOECD
-MAC,Asia,Eastern Asia,China,640445.0,2. High income: nonOECD
+HKG,Asia,Eastern Asia,Hong Kong S.A.R.,7507400.0,2. High income: nonOECD
+MAC,Asia,Eastern Asia,Macao S.A.R,640445.0,2. High income: nonOECD
 CXR,Oceania,Australia and New Zealand,,,
 CCK,Oceania,Australia and New Zealand,,,
 COL,Americas,Latin America and the Caribbean,Colombia,50339443.0,3. Upper middle income
 COM,Africa,Sub-Saharan Africa,Comoros,850886.0,5. Low income
 COG,Africa,Sub-Saharan Africa,Republic of the Congo,5380508.0,4. Lower middle income
-COK,Oceania,Polynesia,New Zealand,17459.0,3. Upper middle income
+COK,Oceania,Polynesia,Cook Islands,17459.0,3. Upper middle income
 CRI,Americas,Latin America and the Caribbean,Costa Rica,5047561.0,3. Upper middle income
 CIV,Africa,Sub-Saharan Africa,Ivory Coast,25716544.0,4. Lower middle income
 HRV,Europe,Southern Europe,Croatia,4067500.0,2. High income: nonOECD
 CUB,Americas,Latin America and the Caribbean,Cuba,11333483.0,3. Upper middle income
-CUW,Americas,Latin America and the Caribbean,Netherlands,157538.0,2. High income: nonOECD
+CUW,Americas,Latin America and the Caribbean,Curaçao,157538.0,2. High income: nonOECD
 CYP,Asia,Western Asia,Cyprus,1198575.0,2. High income: nonOECD
 CZE,Europe,Eastern Europe,Czechia,10669709.0,1. High income: OECD
 PRK,Asia,Eastern Asia,North Korea,25666161.0,5. Low income
@@ -79,32 +79,32 @@ ERI,Africa,Sub-Saharan Africa,Eritrea,6081196.0,5. Low income
 EST,Europe,Northern Europe,Estonia,1326590.0,1. High income: OECD
 SWZ,Africa,Sub-Saharan Africa,eSwatini,1148130.0,4. Lower middle income
 ETH,Africa,Sub-Saharan Africa,Ethiopia,112078730.0,5. Low income
-FLK,Americas,Latin America and the Caribbean,United Kingdom,3398.0,1. High income: OECD
+FLK,Americas,Latin America and the Caribbean,Falkland Islands,3398.0,1. High income: OECD
 FJI,Oceania,Melanesia,Fiji,889953.0,4. Lower middle income
 FIN,Europe,Northern Europe,Finland,5520314.0,1. High income: OECD
 FRA,Europe,Western Europe,France,67059887.0,1. High income: OECD
-FRA,Europe,Western Europe,France,0.0,5. Low income
+FRA,Europe,Western Europe,Clipperton Island,0.0,5. Low income
 GUF,Americas,Latin America and the Caribbean,,,
-PYF,Oceania,Polynesia,France,279287.0,2. High income: nonOECD
-ATF,Africa,Sub-Saharan Africa,France,140.0,2. High income: nonOECD
+PYF,Oceania,Polynesia,French Polynesia,279287.0,2. High income: nonOECD
+ATF,Africa,Sub-Saharan Africa,French Southern and Antarctic Lands,140.0,2. High income: nonOECD
 GAB,Africa,Sub-Saharan Africa,Gabon,2172579.0,3. Upper middle income
 GMB,Africa,Sub-Saharan Africa,Gambia,2347706.0,5. Low income
 GEO,Asia,Western Asia,Georgia,3720382.0,4. Lower middle income
 DEU,Europe,Western Europe,Germany,83132799.0,1. High income: OECD
 GHA,Africa,Sub-Saharan Africa,Ghana,30417856.0,4. Lower middle income
-GIB,Europe,Southern Europe,United Kingdom,33701.0,1. High income: OECD
+GIB,Europe,Southern Europe,Gibraltar,33701.0,1. High income: OECD
 GRC,Europe,Southern Europe,Greece,10716322.0,1. High income: OECD
-GRL,Americas,Northern America,Denmark,56225.0,2. High income: nonOECD
+GRL,Americas,Northern America,Greenland,56225.0,2. High income: nonOECD
 GRD,Americas,Latin America and the Caribbean,Grenada,112003.0,3. Upper middle income
 GLP,Americas,Latin America and the Caribbean,,,
-GUM,Oceania,Micronesia,United States of America,167294.0,2. High income: nonOECD
+GUM,Oceania,Micronesia,Guam,167294.0,2. High income: nonOECD
 GTM,Americas,Latin America and the Caribbean,Guatemala,16604026.0,4. Lower middle income
-GGY,Europe,Northern Europe,United Kingdom,62792.0,2. High income: nonOECD
+GGY,Europe,Northern Europe,Guernsey,62792.0,2. High income: nonOECD
 GIN,Africa,Sub-Saharan Africa,Guinea,12771246.0,5. Low income
 GNB,Africa,Sub-Saharan Africa,Guinea-Bissau,1920922.0,5. Low income
 GUY,Americas,Latin America and the Caribbean,Guyana,782766.0,4. Lower middle income
 HTI,Americas,Latin America and the Caribbean,Haiti,11263077.0,5. Low income
-HMD,Oceania,Australia and New Zealand,Australia,0.0,5. Low income
+HMD,Oceania,Australia and New Zealand,Heard Island and McDonald Islands,0.0,5. Low income
 HND,Americas,Latin America and the Caribbean,Honduras,9746117.0,4. Lower middle income
 HUN,Europe,Eastern Europe,Hungary,9769949.0,1. High income: OECD
 ISL,Europe,Northern Europe,Iceland,361313.0,1. High income: OECD
@@ -113,15 +113,15 @@ IDN,Asia,South-eastern Asia,Indonesia,270625568.0,4. Lower middle income
 IRN,Asia,Southern Asia,Iran,82913906.0,3. Upper middle income
 IRQ,Asia,Western Asia,Iraq,39309783.0,4. Lower middle income
 IRL,Europe,Northern Europe,Ireland,4941444.0,1. High income: OECD
-IMN,Europe,Northern Europe,United Kingdom,84584.0,2. High income: nonOECD
+IMN,Europe,Northern Europe,Isle of Man,84584.0,2. High income: nonOECD
 ISR,Asia,Western Asia,Israel,9053300.0,1. High income: OECD
 ITA,Europe,Southern Europe,Italy,60297396.0,1. High income: OECD
 JAM,Americas,Latin America and the Caribbean,Jamaica,2948279.0,3. Upper middle income
 JPN,Asia,Eastern Asia,Japan,126264931.0,1. High income: OECD
-JEY,Europe,Northern Europe,United Kingdom,107800.0,2. High income: nonOECD
+JEY,Europe,Northern Europe,Jersey,107800.0,2. High income: nonOECD
 JOR,Asia,Western Asia,Jordan,10101694.0,3. Upper middle income
 KAZ,Asia,Central Asia,Kazakhstan,18513930.0,3. Upper middle income
-KAZ,Asia,Central Asia,Kazakhstan,36175.0,3. Upper middle income
+KAZ,Asia,Central Asia,Baykonur Cosmodrome,36175.0,3. Upper middle income
 KEN,Africa,Sub-Saharan Africa,Kenya,52573973.0,5. Low income
 KIR,Oceania,Micronesia,Kiribati,117606.0,4. Lower middle income
 KWT,Asia,Western Asia,Kuwait,4207083.0,2. High income: nonOECD
@@ -151,7 +151,7 @@ FSM,Oceania,Micronesia,Federated States of Micronesia,113815.0,4. Lower middle i
 MCO,Europe,Western Europe,Monaco,38964.0,2. High income: nonOECD
 MNG,Asia,Eastern Asia,Mongolia,3225167.0,4. Lower middle income
 MNE,Europe,Southern Europe,Montenegro,622137.0,3. Upper middle income
-MSR,Americas,Latin America and the Caribbean,United Kingdom,4649.0,4. Lower middle income
+MSR,Americas,Latin America and the Caribbean,Montserrat,4649.0,4. Lower middle income
 MAR,Africa,Northern Africa,Morocco,36471769.0,4. Lower middle income
 MOZ,Africa,Sub-Saharan Africa,Mozambique,30366036.0,5. Low income
 MMR,Asia,South-eastern Asia,Myanmar,54045420.0,5. Low income
@@ -159,15 +159,15 @@ NAM,Africa,Sub-Saharan Africa,Namibia,2494530.0,3. Upper middle income
 NRU,Oceania,Micronesia,Nauru,12581.0,4. Lower middle income
 NPL,Asia,Southern Asia,Nepal,28608710.0,5. Low income
 NLD,Europe,Western Europe,Netherlands,17332850.0,1. High income: OECD
-NCL,Oceania,Melanesia,France,287800.0,2. High income: nonOECD
+NCL,Oceania,Melanesia,New Caledonia,287800.0,2. High income: nonOECD
 NZL,Oceania,Australia and New Zealand,New Zealand,4917000.0,1. High income: OECD
 NIC,Americas,Latin America and the Caribbean,Nicaragua,6545502.0,4. Lower middle income
 NER,Africa,Sub-Saharan Africa,Niger,23310715.0,5. Low income
 NGA,Africa,Sub-Saharan Africa,Nigeria,200963599.0,4. Lower middle income
-NIU,Oceania,Polynesia,New Zealand,1620.0,3. Upper middle income
-NFK,Oceania,Australia and New Zealand,Australia,2169.0,4. Lower middle income
+NIU,Oceania,Polynesia,Niue,1620.0,3. Upper middle income
+NFK,Oceania,Australia and New Zealand,Norfolk Island,2169.0,4. Lower middle income
 MKD,Europe,Southern Europe,North Macedonia,2083459.0,3. Upper middle income
-MNP,Oceania,Micronesia,United States of America,57216.0,2. High income: nonOECD
+MNP,Oceania,Micronesia,Northern Mariana Islands,57216.0,2. High income: nonOECD
 NOR,Europe,Northern Europe,Norway,5347896.0,1. High income: OECD
 OMN,Asia,Western Asia,Oman,4974986.0,2. High income: nonOECD
 PAK,Asia,Southern Asia,Pakistan,216565318.0,4. Lower middle income
@@ -177,10 +177,10 @@ PNG,Oceania,Melanesia,Papua New Guinea,8776109.0,4. Lower middle income
 PRY,Americas,Latin America and the Caribbean,Paraguay,7044636.0,4. Lower middle income
 PER,Americas,Latin America and the Caribbean,Peru,32510453.0,3. Upper middle income
 PHL,Asia,South-eastern Asia,Philippines,108116615.0,4. Lower middle income
-PCN,Oceania,Polynesia,United Kingdom,54.0,5. Low income
+PCN,Oceania,Polynesia,Pitcairn Islands,54.0,5. Low income
 POL,Europe,Eastern Europe,Poland,37970874.0,1. High income: OECD
 PRT,Europe,Southern Europe,Portugal,10269417.0,1. High income: OECD
-PRI,Americas,Latin America and the Caribbean,United States of America,3193694.0,2. High income: nonOECD
+PRI,Americas,Latin America and the Caribbean,Puerto Rico,3193694.0,2. High income: nonOECD
 QAT,Asia,Western Asia,Qatar,2832067.0,2. High income: nonOECD
 KOR,Asia,Eastern Asia,South Korea,51709098.0,1. High income: OECD
 MDA,Europe,Eastern Europe,Moldova,2657637.0,4. Lower middle income
@@ -188,12 +188,12 @@ REU,Africa,Sub-Saharan Africa,,,
 ROU,Europe,Eastern Europe,Romania,19356544.0,3. Upper middle income
 RUS,Europe,Eastern Europe,Russia,144373535.0,3. Upper middle income
 RWA,Africa,Sub-Saharan Africa,Rwanda,12626950.0,5. Low income
-BLM,Americas,Latin America and the Caribbean,France,9961.0,1. High income: OECD
-SHN,Africa,Sub-Saharan Africa,United Kingdom,4534.0,4. Lower middle income
+BLM,Americas,Latin America and the Caribbean,Saint Barthelemy,9961.0,1. High income: OECD
+SHN,Africa,Sub-Saharan Africa,Saint Helena,4534.0,4. Lower middle income
 KNA,Americas,Latin America and the Caribbean,Saint Kitts and Nevis,52834.0,2. High income: nonOECD
 LCA,Americas,Latin America and the Caribbean,Saint Lucia,182790.0,3. Upper middle income
-MAF,Americas,Latin America and the Caribbean,France,38002.0,2. High income: nonOECD
-SPM,Americas,Northern America,France,5997.0,3. Upper middle income
+MAF,Americas,Latin America and the Caribbean,Saint Martin,38002.0,2. High income: nonOECD
+SPM,Americas,Northern America,Saint Pierre and Miquelon,5997.0,3. Upper middle income
 VCT,Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,110589.0,3. Upper middle income
 WSM,Oceania,Polynesia,Samoa,197097.0,4. Lower middle income
 SMR,Europe,Southern Europe,San Marino,33860.0,2. High income: nonOECD
@@ -204,16 +204,16 @@ SRB,Europe,Southern Europe,Republic of Serbia,6944975.0,3. Upper middle income
 SYC,Africa,Sub-Saharan Africa,Seychelles,97625.0,3. Upper middle income
 SLE,Africa,Sub-Saharan Africa,Sierra Leone,7813215.0,5. Low income
 SGP,Asia,South-eastern Asia,Singapore,5703569.0,2. High income: nonOECD
-SXM,Americas,Latin America and the Caribbean,Netherlands,40733.0,2. High income: nonOECD
+SXM,Americas,Latin America and the Caribbean,Sint Maarten,40733.0,2. High income: nonOECD
 SVK,Europe,Eastern Europe,Slovakia,5454073.0,1. High income: OECD
 SVN,Europe,Southern Europe,Slovenia,2087946.0,1. High income: OECD
 SLB,Oceania,Melanesia,Solomon Islands,669823.0,4. Lower middle income
 SOM,Africa,Sub-Saharan Africa,Somalia,10192317.3,5. Low income
 ZAF,Africa,Sub-Saharan Africa,South Africa,58558270.0,3. Upper middle income
-SGS,Americas,Latin America and the Caribbean,United Kingdom,30.0,5. Low income
+SGS,Americas,Latin America and the Caribbean,South Georgia and the Islands,30.0,5. Low income
 ESP,Europe,Southern Europe,Spain,47076781.0,1. High income: OECD
 LKA,Asia,Southern Asia,Sri Lanka,21803000.0,4. Lower middle income
-PSE,Asia,Western Asia,Israel,4685306.0,4. Lower middle income
+PSE,Asia,Western Asia,Palestine,4685306.0,4. Lower middle income
 SDN,Africa,Northern Africa,Sudan,42813238.0,4. Lower middle income
 SUR,Americas,Latin America and the Caribbean,Suriname,581363.0,3. Upper middle income
 SWE,Europe,Northern Europe,Sweden,10285453.0,1. High income: OECD
@@ -229,25 +229,25 @@ TTO,Americas,Latin America and the Caribbean,Trinidad and Tobago,1394973.0,2. Hi
 TUN,Africa,Northern Africa,Tunisia,11694719.0,3. Upper middle income
 TUR,Asia,Western Asia,Turkey,83429615.0,3. Upper middle income
 TKM,Asia,Central Asia,Turkmenistan,5942089.0,3. Upper middle income
-TCA,Americas,Latin America and the Caribbean,United Kingdom,38191.0,2. High income: nonOECD
+TCA,Americas,Latin America and the Caribbean,Turks and Caicos Islands,38191.0,2. High income: nonOECD
 TUV,Oceania,Polynesia,Tuvalu,11646.0,3. Upper middle income
 UGA,Africa,Sub-Saharan Africa,Uganda,44269594.0,5. Low income
 UKR,Europe,Eastern Europe,Ukraine,44385155.0,4. Lower middle income
 ARE,Asia,Western Asia,United Arab Emirates,9770529.0,2. High income: nonOECD
 GBR,Europe,Northern Europe,United Kingdom,66834405.0,1. High income: OECD
-TZA,Africa,Sub-Saharan Africa,United Republic of Tanzania,58005463.0,5. Low income
-UMI,Oceania,Micronesia,United States of America,300.0,5. Low income
-USA,Americas,Northern America,United States of America,328239523.0,1. High income: OECD
-VIR,Americas,Latin America and the Caribbean,United States of America,106631.0,2. High income: nonOECD
+TZA,Africa,Sub-Saharan Africa,Tanzania,58005463.0,5. Low income
+UMI,Oceania,Micronesia,United States Minor Outlying Islands,300.0,5. Low income
+USA,Americas,Northern America,United States,328239523.0,1. High income: OECD
+VIR,Americas,Latin America and the Caribbean,United States Virgin Islands,106631.0,2. High income: nonOECD
 URY,Americas,Latin America and the Caribbean,Uruguay,3461734.0,3. Upper middle income
 UZB,Asia,Central Asia,Uzbekistan,33580650.0,4. Lower middle income
 VUT,Oceania,Melanesia,Vanuatu,299882.0,4. Lower middle income
 VEN,Americas,Latin America and the Caribbean,Venezuela,28515829.0,3. Upper middle income
 VNM,Asia,South-eastern Asia,Vietnam,96462106.0,4. Lower middle income
-WLF,Oceania,Polynesia,France,11558.0,4. Lower middle income
+WLF,Oceania,Polynesia,Wallis and Futuna,11558.0,4. Lower middle income
 ESH,Africa,Northern Africa,Western Sahara,603253.0,5. Low income
 YEM,Asia,Western Asia,Yemen,29161922.0,4. Lower middle income
 ZMB,Africa,Sub-Saharan Africa,Zambia,17861030.0,4. Lower middle income
 ZWE,Africa,Sub-Saharan Africa,Zimbabwe,14645468.0,5. Low income
-FRO,Europe,Northern Europe,Denmark,48678.0,2. High income: nonOECD
+FRO,Europe,Northern Europe,Faroe Islands,48678.0,2. High income: nonOECD
 ,,,,,
